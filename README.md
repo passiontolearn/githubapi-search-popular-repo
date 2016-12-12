@@ -6,4 +6,4 @@ See the [Coding Challenge for EA Teaching Residents](https://github.com/Elevatio
 
 I solved this challenge by learning the relvevant parts of the GitHub API and AngularJS.
 
-A live demonstration of the solution is available: [here](https://passiontolearn.github.io/ElevationAcademyChallenge)
+A live demonstration of the solution is available: [here](https://passiontolearn.github.io/ElevationAcademyChallenge){:target="_blank"}

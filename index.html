@@ -49,13 +49,13 @@
 			  <TABLE>
 			     <tr>
 			   	   <td ng-switch-when="0"> 	
-					   <!-- Every repository name will be a link to the repository itself -->
+					<!-- Every repository name will be a link to the repository itself -->
 				      Repo Name:<a href="{{data.items[$index].html_url}}" target="_blank"> {{data.items[$index].name}} </a>
 			       </td>
 			     </tr>
 			     <tr>
 				    <td ng-switch-when="0">	
-						<!-- Display how many times this repostiory has been forked -->
+					<!-- Display how many times this repostiory has been forked -->
 				      Forks: <b id="forksnumber">{{data.items[$index].forks_count}}</b>
 				    </td>
 			     </tr>
